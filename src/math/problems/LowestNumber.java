@@ -1,4 +1,4 @@
-package math.problem;
+package math.problems;
 
 import databases.ConnectToSqlDB;
 
